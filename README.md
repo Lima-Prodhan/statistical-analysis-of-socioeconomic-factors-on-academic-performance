@@ -12,7 +12,7 @@ The analysis uses pandas, NumPy, Matplotlib, Seaborn, SciPy and scikit-learn to 
 
 The notebook loads `StudentsPerformance.csv` from `/content/StudentsPerformance.csv` (Google Colab). It is downloaded from the [Kaggle Students Performance in Exams dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams).
 
-The notebook output shows **1,000 records and 8 columns**: gender, race/ethnicity, parental level of education, lunch, test preparation course, math score, reading score, and writing score. The notebook's missing-value check reports no null values for the CSV.
+The dataset shows **1,000 records and 8 columns**: gender, race/ethnicity, parental level of education, lunch, test preparation course, math score, reading score, and writing score. The notebook's missing-value check reports no null values for the CSV.
 
 ## Methods in the notebook
 
