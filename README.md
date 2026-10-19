@@ -2,11 +2,12 @@
 
 Statistics for Data Science | East West University  
 
+## Project overview
+
 This project explores the relationship between parental education and student academic performance (exam scores) using Python-based statistical analysis. It includes exploratory data analysis (EDA), data visualization, hypothesis testing, confidence interval estimation, bootstrap resampling, regression modeling and statistical robustness checks to examine math, reading and writing scores.
 The analysis uses pandas, NumPy, Matplotlib, Seaborn, SciPy and scikit-learn to identify patterns, evaluate statistical significance and investigate factors associated with students’ mathematics performance.
 
 > **Scope note:** The notebook tests one parental-education indicator (`some college`) against all other parental-education categories and uses reading and writing scores as regression predictors. It does not model all socioeconomic factors.
-
 
 ## Dataset
 
